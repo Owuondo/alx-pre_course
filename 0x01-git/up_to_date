@@ -1,1 +1,2 @@
-touch
+$git add README.md
+$git pull
